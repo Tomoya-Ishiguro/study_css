@@ -1,0 +1,11 @@
+div {
+	color: red;
+	font-size: 80px;
+	background-color: #73c7b5;
+	width: calc(100% / 3);
+}
+
+p {
+	color: pink;
+	font-size: 100px;
+}
